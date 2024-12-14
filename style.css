@@ -121,3 +121,69 @@ requires for responsiveness
     display: flex;
     justify-content: center;
 }
+
+.section3 {
+    background-color: #E5E7EB;
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
+
+#quote {
+    display: flex;
+    justify-content: center;
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    
+}
+
+#sub-s {
+    display: flex;
+    justify-content: right;
+    padding-right: 30%;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.section4 {
+    margin-top: 80px;
+    margin-bottom: 80px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #3882f6;
+    color: white;
+    margin-left: 15%;
+    margin-right: 15%;
+    gap: 15%;
+    border-radius: 10px;
+}
+
+.sec4-button {
+    display: flex;
+    background-color: #3882f6;
+    text-decoration: none;
+    padding: 20px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-color: white;
+    border-radius: 5px;
+    color: white;
+    font-weight: 500;
+    font-size: medium;
+    border: solid white 1px;
+}
+
+.sec4-p {
+    font-weight: 300;
+}
+
+.section5 {
+    display: flex;
+    justify-content: center;
+    background-color: #1F2937;
+    color: white;
+}
