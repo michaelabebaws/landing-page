@@ -41,6 +41,7 @@ body{
 .content {
     display: flex;
     justify-content:space-between; 
+    align-items: center;
 }
 
 .container2 {
@@ -48,7 +49,6 @@ body{
     padding-right: 180px;
     padding-top: 70px;
     padding-bottom: 70px;
-
 }
 
 .content-h1 {
@@ -72,7 +72,7 @@ body{
     max-width: 400px;
 }       /* further look and checking up 
 requires for responsiveness
- the coulmn issue*/
+*/
 
  .content-button1 {
     background-color: #3882f6;
@@ -102,6 +102,7 @@ requires for responsiveness
     align-items: center;
     justify-content: center;
     gap: 5%;
+    font-weight: 400;
  } 
 
 .boxes {
@@ -147,8 +148,8 @@ requires for responsiveness
 
 
 .section4 {
-    margin-top: 80px;
-    margin-bottom: 80px;
+    margin-top: 100px;
+    margin-bottom: 100px;
     padding-top: 15px;
     padding-bottom: 15px;
     display: flex;
@@ -186,4 +187,6 @@ requires for responsiveness
     justify-content: center;
     background-color: #1F2937;
     color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
